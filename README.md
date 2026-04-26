@@ -168,6 +168,29 @@ Aqui está o bloco para você adicionar logo abaixo da seção **10. Como rodar 
 
 ---
 
+
+### 📊 Visualização da Arquitetura e Fluxo
+
+Abaixo estão detalhados os diagramas que serviram de base para a construção da lógica do sistema, desde o mapeamento de entidades até o fluxo de requisições.
+
+#### 🏗️ Arquitetura de Componentes e Rotas (Canva)
+Este diagrama detalha todo o fluxo de navegação do usuário, a hierarquia dos componentes React e como as rotas do NestJS se conectam ao frontend.
+
+> **Visualizar Fluxograma Completo**
+<img src="./imagens/Products.png" alt="Fluxo Canva" width="700">
+
+---
+
+#### 📐 Modelagem de Dados e Relacionamentos (Excalidraw)
+O esquema visual das tabelas, chaves estrangeiras e a estrutura de persistência do Prisma ORM foi planejado utilizando o Excalidraw.
+
+<img src="./imagens/diagrama.png" alt="Fluxo Excalidraw" width="350">
+
+* **Acesse o quadro editável:** [Projeto Excalidraw](https://excalidraw.com/#json=x6FdPNApA_yV3laISkJz8,_ohCkifa8jM4Nqt12xw5PA)
+
+---
+
+
 #### 🔌 Endpoints da API
 
 A API está documentada abaixo com seus respectivos métodos e responsabilidades:
